@@ -1,0 +1,24 @@
+{
+    "code": 200,
+    "report": "Person Profile",
+    "name": "Jason",
+    "age": 30,
+    "count": 2,
+    "products": [
+        {"name": "a", "price": 1},
+        {"name": "b", "price": 2}
+    ],
+    "properties": {
+        "books": ["a", "b", "c"],
+        "games": [1, 2, 3]
+    },
+    "subsets": {
+        "deep-nest": {
+            "students": ["a", "b", "c"]
+        }
+    },
+    "override": [
+        "a": "a",
+        "b": "b"
+    ]
+}

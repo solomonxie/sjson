@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "report": "Person Profile",
+    "name": "<replace-by-str-override>",
+    "age": "<replace-by-int-max>",
+    "count": "<replace-by-int-sum>",
+    "products": "<replace-by-list>",
+    "properties": "<replace-by-dict>",
+    "subsets": {
+    	"deep-nest": "<replace-by-dict>"
+	}
+}
